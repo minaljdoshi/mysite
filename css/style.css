@@ -1833,16 +1833,16 @@ footer.site-footer a:hover {
   width: 90%;
 }
 #skills .skills .meter .website {
-  width: 100%;
+  width: 90%;
 }
 #skills .skills .meter .ui {
-  width: 98%;
+  width: 70%;
 }
 #skills .skills .meter .mobile {
-  width: 95%;
+  width: 85%;
 }
-#skills .skills .meter .flash {
-  width: 90%;
+#skills .skills .meter .dm {
+  width: 45%;
 }
 #skills .skills .meter .html {
   width: 100%;
@@ -1850,17 +1850,17 @@ footer.site-footer a:hover {
 #skills .skills .meter .sass {
   width: 100%;
 }
-#skills .skills .meter .responsive {
-  width: 100%;
+#skills .skills .meter .team {
+  width: 75%;
 }
 #skills .skills .meter .wireframing {
   width: 85%;
 }
-#skills .skills .meter .sketch {
-  width: 30%;
+#skills .skills .meter .project {
+  width: 70%;
 }
 #skills .skills .meter .js {
-  width: 65%;
+  width: 45%;
 }
 #skills .skills .meter .dedication {
   width: 100%;
